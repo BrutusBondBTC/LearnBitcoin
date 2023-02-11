@@ -15,6 +15,8 @@ Bitcoin is compliocated if you try to explain it all at once, but my goal is to 
 
 I am experiminting with the value 4 value model. This particular project could especially use some value in the form of **time** and **talent**. 
 
-Please help make this better. 
+If you have some time and talent to spare, please help make this better. 
+
+https://brutusbond.nohost.me/digisteps/#/s/637c1ba85f5c8
 
 ![image](https://user-images.githubusercontent.com/103765434/218260483-16267209-3a86-4700-8717-fe0012d84404.png)
